@@ -128,6 +128,13 @@ Lego Flag Pole - BGA_MMObj_POIBanner
 # Make sure orange prop IDs are under Prefabs:PlaysetProp
 Minigun Vending Machine - B_Athena_VendingMachine
 
+Medallion Vault Opener - BGA_KeycardLock_TDM
+
+Loot Cache - BGA_MidMatchAssignedObjective_Interaction_LootCache
+
+Jetpack Hook - PPID_CRP_Covert_BGA_Athena_Jetpack_Container_Blimp
+
+
 Blevin - BGA_Athena_Corruption_Gameplay_cube_B
 
 Fortilla KeyCard Access - BGA_Athena_Keycard_Lock_Fortilla_C
