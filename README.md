@@ -1,6 +1,6 @@
-# SceneryFN
+# What is SceneryFN?
 
-This is a windows software that allows you to summon unreleased props and devices in Fortnite creative mode!
+SceneryFN is a windows software that allows you to summon unreleased props and devices in Fortnite creative mode!
 
 # How do I summon unreleased props and device in Fortnite creative mode?
 
