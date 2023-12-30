@@ -108,7 +108,7 @@ Slappy Shores - PID_CP_SlappyShores_POI
 # Make sure Lego IDs are under Prefabs:Playset
 Lego Brick - PID_L_Pref_Brick_32
 
-Lego Campfire - PPID_JunoGame_BP_Juno_Campfire_7de8398b
+Lego Campfire - PPID_JunoGame_PP_Juno_Campfire_7de8398b
 
 Lego Bed - PPID_JunoGame_PP_Bed
 
