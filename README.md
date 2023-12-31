@@ -151,7 +151,7 @@ Spiky Stadium - PID_016_Athena_SpikyStadium
 
 Slappy Shores - PID_CP_SlappyShores_POI
 
-# Make sure these IDs are under Weapons:Weapon ( THESE CANNOT BE DROPPED!)
+# Make sure these IDs are under Weapons:Weapon (THESE CANNOT BE DROPPED!)
 
 Lego Tier 5 Axe - WID_Juno_Axe_T5
 
