@@ -59,70 +59,48 @@ Place the props and device and enjoy :)
 
 # What IDs can I use?
 
-# Make sure devices IDs are under Devices:Playset 
-Dance Volume Device - PID_CP_Devices_DanceVolume
+# Make sure these IDs are under Prefab:PlaysetProp or Galleries:PlaysetProp
 
-Animated Mesh Device - PID_CP_Devices_AnimatedMesh.uasset
-
-Emote Controller Device - PID_Device_EmoteController.uasset
-
-Item shop manikin - PID_CP_Devices_Store
-
-Streaming Radio - PID_Device_StreamingRadio
-
-Audio Mixer - PID_CP_Devices_CRD_AudioMixer
-
-Floor Loot Proxy - PID_CP_Device_FloorLootProxy
-
-Loot Container Proxy - PID_CP_Device_LootContainerProxy
-
-Reboot Van Proxy - PID_CP_Device_RebootVanProxy
-
-Vehicle Proxy - PID_CP_Device_VehicleProxy
-
-Wildlife Proxy - PID_CP_Device_WildlifeProxy
-
-Clapboard Device - PID_CP_Devices_Clapboard
-
-# Make sure island IDs are under Prefab:Playset 
-Shark Island - PID_Playset_105x105_Shark_Island
-
-Volcano Island - PID_Playset_60x60_Composed_Volcano
-
-Steamy Stacks Island - PID_Playset_105x105_Composed_PowerPlant
-
-Mountain Island - PID_Playset_215x215_Mountain_Island
-
-Aftermath Island - PID_Playset_Arena_Aftermath
-
-Greasy Grove Island - PID_Playset_60x60_Composed_POI_Greasy
-
-FlatGrid Island - PID_Playset_215x215_FlatGrid_XL_Island
-
-Battle Royale Island -  PID_Playset_CreativeRoyale
-
-Spiky Stadium - PID_016_Athena_SpikyStadium
-
-Slappy Shores - PID_CP_SlappyShores_POI
-
-# Make sure Lego IDs are under Prefabs:Playset
-Lego Brick - PID_L_Pref_Brick_32
-
-Lego Campfire - PPID_JunoGame_PP_Juno_Campfire_7de8398b
+Lego Brick - PPID_ProjectPlayGame_PP_Brick_32_01
 
 Lego Bed - PPID_JunoGame_PP_Bed
 
-Lego Catapult - PPID_JumunoGame_PP_Catapult
+Lego Bed - PPID_ProjectPlayGame_PP_Bed
 
-Lego Zipline Pole - PPID_JunoGame_PP_Zipline Pole
+Lego Catapult - PPID_JunoGame_PP_Catapult
+
+Lego Catapult - PPID_ProjectPlayGame_PP_Catapult
 
 Lego Fence - PPID_JunoGame_PP_FencePlacer
 
-Lego Small Storage Chest - PPID_JunoGame_PP_StorageChest_Small
+Lego Fence - PPID_ProjectPlayGame_PP_FencePlacer
+
+Lego Map Marker - PPID_ProjectPlayGame_PP_MapMarker
 
 Lego Map Marker - PPID_JunoGame_PP_MapMarker
 
-# Make sure orange prop IDs are under Prefabs:PlaysetProp
+Lego Small Storage Chest - PPID_ProjectPlayGame_PP_StorageChest_Small
+
+LEgo Small Storage Chest - PPID_JunoGame_PP_StorageChest_Small
+
+Lego Zipline Pole - PPID_JunoGame_PP_ZiplinePole
+
+Lego Zipline Pole - PPID_ProjectPlayGame_PP_ZiplinePole
+
+Lego Campfiree - PPID_JunoGame_PP_Juno_Campfire_7de8398b
+
+# Make sure these IDs are under Prefabs:Deco
+
+Belvin - BGA_Athena_CorruptionGameplay_Cube_B
+
+Banner POI - BGA_MMObj_POIBanner
+
+Capture Point - BGA_MMObj_POICapturePoint_C
+
+## Make sure these IDs are under Prefabs:PlaysetProp ##
+
+Cube Town Floors - PPID_CRP_Corruption_CP_BGA_Cube_CubeTown_Floor_s2
+
 Minigun Vending Machine - B_Athena_VendingMachine
 
 Medallion Vault Opener - BGA_KeycardLock_TDM
@@ -139,12 +117,74 @@ Jetpack Hook - PPID_CRP_Covert_BGA_Athena_Jetpack_Container_Blimp
 
 Fortilla KeyCard Access - BGA_Athena_Keycard_Lock_Fortilla_C
 
-Cube Floors - PPID_CRP_Corruption_CP_BGA_Cube_CubeTown_Floor_S3
+# Make sure these IDs are under Devices:Playset
 
-# Make sure these orange prop IDs are under Prefabs:Deco
+Floor Loot Device - PID_CP_Device_FloorLootProxy
 
-Capture Point - BGA_MMObj_POICapturePoint_C
+Loot Container Device - PID_CP_Device_LootContainerProxy
 
-Blevin - BGA_Athena_Corruption_Gameplay_cube_B
+Reboot Van Device - PID_CP_Device_RebootVanProxy
 
-Lego Flag Pole - BGA_MMObj_POIBanner
+Vehicle Device - PID_CP_Device_VehicleProxy
+
+Wildlife Device - PID_CP_Device_WildlifeProxy
+
+# Make sure these IDs are under Prefab:Playset
+
+Shark Island - PID_Playset_105x105_Shark_Island
+
+Volcano Island - PID_Playset_60x60_Composed_Volcano
+
+Steamy Stacks Island - PID_Playset_105x105_Composed_PowerPlant
+
+Mountain Island - PID_Playset_215x215_Mountain_Island
+
+Aftermath - PID_Playset_Arena_Aftermath
+
+Greasy Grove Island - PID_Playset_60x60_Composed_POI_Greasy
+
+FlatGrid Island - PID_Playset_215x215_FlatGrid_XL_Island
+
+Battle Royale Island -  PID_Playset_CreativeRoyale
+
+Spiky Stadium - PID_016_Athena_SpikyStadium
+
+Slappy Shores - PID_CP_SlappyShores_POI
+
+# Make sure these IDs are under Weapons:Weapon ( THESE CANNOT BE DROPPED!)
+
+Lego Tier 5 Axe - WID_Juno_Axe_T5
+
+Lego Enemy Bone - WID_JUNO_Enemy_Bone
+
+Lego Bone Axe - WID_JUNO_Axe_Variant01
+
+Lego Dynamite - WID_Juno_Dynamite
+
+Lego Grappler - WID_Hookgun_Juno
+
+Lego Guitar - WID_Juno_Guitar
+
+Lego Tier 5 Hammer - WID_Juno_Hammer_T5
+
+Lego Sword - WID_JUNO_Sword
+
+Lego Gravity Gun - WID_GravityGun_T5
+
+Lego Tier 5 Bow - WID_Juno_Bow_T5
+
+Prop-ifier - WID_Athena_PaddleGinger
+
+Tomato - WID_Athena_Tomato
+
+Burst Squad Heal - WID_Athena_BurstSquadHeal
+
+Burst Firefly Launcher - WID_Athena_MolotovGun_FA
+
+Creative Phone - WID_CreativeTool
+
+Fir eExtinguisher - WID_FireExtinguisher_Spray
+
+Avacado Eater - WID_Athena_AvacadoEaterThrown
+
+OG Pump - WID_Shotgun_Standard_UC_Ore_T01
