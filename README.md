@@ -122,21 +122,29 @@ Lego Small Storage Chest - PPID_JunoGame_PP_StorageChest_Small
 
 Lego Map Marker - PPID_JunoGame_PP_MapMarker
 
-Lego Flag Pole - BGA_MMObj_POIBanner
-
-
 # Make sure orange prop IDs are under Prefabs:PlaysetProp
 Minigun Vending Machine - B_Athena_VendingMachine
 
 Medallion Vault Opener - BGA_KeycardLock_TDM
 
+Inclined Zipline - B_Athena_Zipline_Ascender_C
+
+Sneaky Snowman - Athena_Prop_SneakySnowman_C
+
+OG Supply Drop - BP_DamageBalloon_Athena_C
+
 Loot Cache - BGA_MidMatchAssignedObjective_Interaction_LootCache
 
 Jetpack Hook - PPID_CRP_Covert_BGA_Athena_Jetpack_Container_Blimp
 
-
-Blevin - BGA_Athena_Corruption_Gameplay_cube_B
-
 Fortilla KeyCard Access - BGA_Athena_Keycard_Lock_Fortilla_C
 
 Cube Floors - PPID_CRP_Corruption_CP_BGA_Cube_CubeTown_Floor_S3
+
+# Make sure these orange prop IDs are under Prefabs:Deco
+
+Capture Point - BGA_MMObj_POICapturePoint_C
+
+Blevin - BGA_Athena_Corruption_Gameplay_cube_B
+
+Lego Flag Pole - BGA_MMObj_POIBanner
