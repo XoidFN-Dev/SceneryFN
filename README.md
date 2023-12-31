@@ -1,5 +1,3 @@
-# https://dsc.gg/kdrew
-
 # What is SceneryFN?
 
 SceneryFN is a windows software that allows you to summon unreleased props and devices in Fortnite creative mode!
@@ -190,3 +188,8 @@ Fire Extinguisher - WID_FireExtinguisher_Spray
 Avacado Eater - WID_Athena_AvacadoEaterThrown
 
 OG Pump - WID_Shotgun_Standard_UC_Ore_T01
+
+
+
+#Join the server!
+# https://dsc.gg/kdrew
