@@ -183,7 +183,7 @@ Burst Firefly Launcher - WID_Athena_MolotovGun_FA
 
 Creative Phone - WID_CreativeTool
 
-Fir eExtinguisher - WID_FireExtinguisher_Spray
+Fire Extinguisher - WID_FireExtinguisher_Spray
 
 Avacado Eater - WID_Athena_AvacadoEaterThrown
 
