@@ -190,6 +190,7 @@ Avacado Eater - WID_Athena_AvacadoEaterThrown
 OG Pump - WID_Shotgun_Standard_UC_Ore_T01
 
 
-
-# Join the server!
+# Credits to:
+# The Soup for making Scenary FN
+# Kdrew's Server
 # https://dsc.gg/kdrew
