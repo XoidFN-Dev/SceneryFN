@@ -191,6 +191,6 @@ OG Pump - WID_Shotgun_Standard_UC_Ore_T01
 
 
 # Credits to:
-# The Soup for making Scenary FN
+# Soup for making Scenary FN
 # Kdrew's Server
 # https://dsc.gg/kdrew
